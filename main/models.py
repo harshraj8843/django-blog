@@ -8,7 +8,7 @@ from ckeditor.fields import RichTextField
 class Blog(models.Model):
     title = models.CharField(default='', max_length=100)
     desc = RichTextField()
-    author = models.CharField(default='Neukcode', max_length=50)
+    author = models.CharField(default='harshraj8843', max_length=50)
     date = models.DateField(auto_now=False, auto_now_add=True)
 
 # contact model

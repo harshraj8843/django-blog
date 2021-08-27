@@ -18,7 +18,7 @@ class Migration(migrations.Migration):
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('title', models.CharField(default='', max_length=100)),
                 ('desc', ckeditor.fields.RichTextField()),
-                ('author', models.CharField(default='Neukcode', max_length=50)),
+                ('author', models.CharField(default='harshraj8843', max_length=50)),
                 ('date', models.DateField(auto_now_add=True)),
             ],
         ),
