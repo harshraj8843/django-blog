@@ -2,27 +2,21 @@
 
 ---
 
-<p align="center"> A simple blog website in Django
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 
 A simple blog website in Django
 
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 - clone project
   ```
-  git clone https://github.com/harshraj8843/django-blog
+  git clone https://github.com/novicexp/django-blog
   ```
   ```
   cd django-blog/
@@ -44,7 +38,3 @@ A simple blog website in Django
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [DJANGO](https://www.djangoproject.com/)
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@harshraj8843](https://github.com/harshraj8843)
