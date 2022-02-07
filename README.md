@@ -16,7 +16,7 @@ A simple blog website in Django
 
 - clone project
   ```
-  git clone https://github.com/novicexp/django-blog
+  git clone https://github.com/harshraj8843/django-blog
   ```
   ```
   cd django-blog/
